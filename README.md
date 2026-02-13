@@ -69,13 +69,6 @@ REST микросервис расчёта отпускных
 
 ---
 
-## 📊 GitHub статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Serbly&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serbly&layout=compact&theme=dark)
-
----
-
 ## 📫 Контакты
 
 - 📧 Email: sergey128476@gmail.com  
